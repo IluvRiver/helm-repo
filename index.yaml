@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp-chart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-07-29T01:42:04.479355288Z"
+    description: A Helm chart with image and replicas as variables
+    digest: 72008cd3bf55f3bebec4a0bdfb3e51c5101628eb11bebacac93fc1df31e02046
+    name: myapp-chart
+    type: application
+    urls:
+    - https://IluvRiver.github.io/helm-repo/myapp-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-29T01:42:04.478878665Z"
